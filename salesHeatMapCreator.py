@@ -62,7 +62,7 @@ period = str(input("What time period does the data represent? "))
 # In[9]:
 
 
-geolocator = Nominatim(user_agent="MatthewMueller5295")
+geolocator = Nominatim(user_agent="RMMisTheBest661")
 
 
 # In[10]:
