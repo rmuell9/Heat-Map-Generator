@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-20
+
 import geopy, os, time, pandas as pd, pickle, folium
 from geopy.geocoders import Nominatim
 from folium.plugins import HeatMap
